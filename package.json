@@ -1,0 +1,16 @@
+{
+    "name": "megasena",
+    "version": "1.0.0",
+    "description": "Programming just for fun",
+    "main": "app/index.js",
+    "author": "hbolzan",
+    "license": "MIT",
+    "scripts": {
+        "test": "jest",
+        "tsc": "tsc"
+    },
+    "devDependencies": {
+        "jest": "^29.2.2",
+        "typescript": "^4.8.4"
+    }
+}
