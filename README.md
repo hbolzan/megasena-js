@@ -3,7 +3,7 @@
 ![Bolinhas](bolinhas.jpg)
 
 ## Apresentação
-Mais um fim de ano, mais uma MegaSena da Virada, mais uma vez o desafio de escolher números sem viés para gerar as minhas apostas. Dessa vez fiquei imaginando como simular o globo de sorteio da MegaSena com mais autenticidade, dando um toque de realismo à geração dos números. A ciência adicionada a essa nova versão é o ingrediente de aleatoriedade real que foi adicionado. Além da combinação de números pseudo aleatórios que fazem variar aleatoriamente o intervalo de embaralhamento dos números, é preciso comandar manualmente a geração de cada número. Isso confere imprevisibilidade ao evento, criando um sorteio com aleatoriedade verdadeira.
+Mais um fim de ano, mais uma MegaSena da Virada, mais uma vez o desafio de escolher números sem viés para gerar as minhas apostas. Dessa vez fiquei imaginando como simular o globo de sorteio da MegaSena com mais autenticidade, dando um toque de realismo à geração dos números. A ciência dessa nova versão é o ingrediente de aleatoriedade real que foi adicionado. Além da combinação de números pseudo aleatórios que fazem variar aleatoriamente o intervalo de embaralhamento dos números, é preciso comandar manualmente a geração de cada número. Isso confere imprevisibilidade ao evento, criando um sorteio com aleatoriedade verdadeira.
 
 ## Aviso Legal
 Antes de prosseguir, sempre é bom lembrar que **NÃO EXISTE MÉTODO CIENTÍFICO PARA GANHAR NA MEGASENA OU EM QUALQUER SORTEIO**.
@@ -28,6 +28,12 @@ npm install
 ou
 ```
 yarn install
+```
+
+Em seguida navegue para a pasta do app, rode o aplicativo na linha de comando e siga as instruções
+```
+cd app
+node index.js
 ```
 
 ## Princípio de funcionamento
